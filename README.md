@@ -318,4 +318,4 @@ Stiller'le ilgi bilgilere daha sonraki sample'larda değiniyor olacağız.
 
 Projemizin video'sunuda paylaşalım :)
 
-<iframe width="560" height="560" src="https://www.youtube.com/embed/HNcKo6GxrYs" frameborder="0" allowfullscreen></iframe>
+<a href="https://www.youtube.com/watch?v=HNcKo6GxrYs" target="_blank"><img src="https://img.youtube.com/vi/HNcKo6GxrYs/0.jpg"  border="10" /></a>
